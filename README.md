@@ -47,6 +47,8 @@
 
 ## 🏆 TryHackMe
 
+[📊 TryHackMe Progress Tracker](https://qwortie.github.io/thm-tracker)
+
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Qwort.png)](https://tryhackme.com/p/Qwort)
 
 ---
