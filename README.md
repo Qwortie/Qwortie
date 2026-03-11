@@ -45,9 +45,11 @@
 - ✅ Google Cybersecurity Certificate
 - ✅ TryHackMe SEC1
 
-## 🏆 TryHackMe
 
-[📊 TryHackMe Progress Tracker](https://Qwortie.github.io/THM-tracker)
+## 📋 TryHackMe Writeups
+SOC-focused lab writeups covering SIEM & log analysis, network forensics, and threat detection — written from a defender's perspective.
+
+👉 [View Writeups Repo](https://github.com/Qwortie/thm-writeups)
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Qwort.png)](https://tryhackme.com/p/Qwort)
 
