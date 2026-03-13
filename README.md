@@ -22,7 +22,7 @@
 ## 🛠️ Technical Skills
 
 **Security Tools**
-`Splunk` `Wireshark` `Burp Suite` `pfSense` `Tsurugi` `REMnux` `FLARE VM`
+`Splunk` `Wireshark` `Burp Suite` `pfSense` `Tsurugi` `REMnux` `FLARE VM` `Snort`
 
 **Platforms**
 `Windows Server 2019` `Active Directory` `Linux (Ubuntu)` `Microsoft Azure / Entra ID`
