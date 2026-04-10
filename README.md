@@ -16,7 +16,8 @@
 | [🔬 SOC-Home-Lab](https://github.com/Qwortie/soc-home-lab) | Fully virtualized SOC environment with SIEM, AD, and segmented network | Splunk, pfSense, Windows Server 2019 |
 | [📋 TryHackMe Writeups](https://github.com/Qwortie/thm-writeups) | SOC-focused lab writeups covering SIEM & log analysis, network forensics, and threat detection — written from a defender's perspective. | See Writeup Readme |
 | [📑 IR Reports](https://github.com/Qwortie/SOC-Home-Lab/blob/main/docs/incident-reports/README.md) | Full IR reports follow the full MITRE ATT&CK kill chain | Splunk, Sysmon, MITRE ATT&CK |
-| [🦠 malware-analysis-reports](https://github.com/Qwortie/malware-analysis-reports) COMING SOON | Static and dynamic malware analysis write-ups with IOCs | FLARE VM, REMnux, Metasploitable2 |
+| [🎣 SOC Phishing Tickets](https://github.com/Qwortie/Phishing-tickets/blob/main/README.md) | SOC phishing triage ticket log — email analysis, IOC extraction, verdict, and escalation decisions from phishing investigation |  MXToolbox, Wireshark, VirusTotal, olevba, LNKParse3 |
+| [🦠 malware-analysis-reports](https://github.com/Qwortie/malware-analysis-reports) COMING SOON | Static and dynamic malware analysis write-ups with IOCs | FLARE VM, REMnux, Metasploitable2 | 
 
 ---
 
