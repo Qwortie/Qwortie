@@ -60,5 +60,5 @@ SOC-focused lab writeups covering SIEM & log analysis, network forensics, and th
 ## 📫 Contact
 
 - 📧 christopher.j.rice@outlook.com
-- 💼 [LinkedIn](https://linkedin.com/in/christopher-rice-5030b2108)
+- 💼 [LinkedIn](https://linkedin.com/in/christopher-rice-soc)
 - 📍 Orlando, FL
