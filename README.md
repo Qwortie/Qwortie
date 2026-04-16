@@ -18,7 +18,7 @@
 | [🎣 SOC Phishing Tickets](https://github.com/Qwortie/Phishing-tickets/blob/main/README.md) | SOC phishing triage ticket log — email analysis, IOC extraction, verdict, and escalation decisions from phishing investigation |  MXToolbox, Wireshark, VirusTotal, olevba, LNKParse3 |
 | [🔍 Splunk Detection Rules](https://github.com/Qwortie/splunk-detection-rules) | Custom SPL detection rules organised by MITRE ATT&CK tactic — developed and validated in a virtualized SOC lab | Splunk, Sysmon, MITRE ATT&CK |
 | [📋 TryHackMe Writeups](https://github.com/Qwortie/thm-writeups) | SOC-focused lab writeups covering SIEM & log analysis, network forensics, and threat detection — written from a defender's perspective. | See Writeup Readme |
-| [🛡️ SOC Triage Assistant](https://github.com/Qwortie/soc-triage-assistant) | AI-powered Splunk alert triage tool — generates MITRE mapping, IOC extraction, containment actions, and exportable SOC tickets | Claude AI, Netlify, JavaScript |
+| [🛡️ SOC Triage Assistant](https://github.com/Qwortie/soc-triage-assistant) | AI-powered Splunk alert triage tool — generates MITRE mapping, IOC extraction, containment actions, and exportable SOC tickets to expedite workflow | Claude AI, Netlify, JavaScript |
 
 ---
 
