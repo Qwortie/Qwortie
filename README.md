@@ -4,6 +4,7 @@
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square&logo=comptia)
 ![AZ-104](https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=flat-square&logo=microsoft-azure)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-SEC1-212C42?style=flat-square&logo=tryhackme)
+![SOAR](https://img.shields.io/badge/SOAR-Shuffle%2FTheHive-FF6B35?style=flat-square)
 
 > Cybersecurity analyst focused on threat detection, SIEM engineering, and incident response. I build and break things in my home lab so I'm ready to defend real environments from day one.
 
@@ -13,7 +14,8 @@
 
 | Repository | Description | Key Tools |
 |---|---|---|
-| [🔬 SOC-Home-Lab](https://github.com/Qwortie/soc-home-lab) | Fully virtualized SOC environment with SIEM, AD, and segmented network | Splunk, pfSense, Windows Server 2019 |
+| [🔬 SOC-Home-Lab](https://github.com/Qwortie/soc-home-lab) | Fully virtualized SOC environment with SIEM, AD, segmented network and automated SOAR pipeline | Splunk, Wazuh, pfSense, Windows Server 2019 | | Splunk, pfSense, Windows Server 2019 |
+| 🔁 [SOAR-Pipeline](https://github.com/Qwortie/SOC-Home-Lab/tree/main/soar-pipeline/README.md) | Automated Wazuh → Shuffle → TheHive pipeline with VirusTotal IOC enrichment — zero-touch alert creation from detection to case management | Wazuh, Shuffle, TheHive, VirusTotal, Docker |
 | [📑 IR Reports](https://github.com/Qwortie/SOC-Home-Lab/blob/main/docs/incident-reports/README.md) | Full IR reports follow the full MITRE ATT&CK kill chain | Splunk, Sysmon, MITRE ATT&CK |
 | [🎣 SOC Phishing Tickets](https://github.com/Qwortie/Phishing-tickets/blob/main/README.md) | SOC phishing triage ticket log — email analysis, IOC extraction, verdict, and escalation decisions from phishing investigation |  MXToolbox, Wireshark, VirusTotal, olevba, LNKParse3 |
 | [🔍 Splunk Detection Rules](https://github.com/Qwortie/splunk-detection-rules) | Custom SPL detection rules organised by MITRE ATT&CK tactic — developed and validated in a virtualized SOC lab | Splunk, Sysmon, MITRE ATT&CK |
@@ -31,7 +33,7 @@
 `Windows Server 2019` `Active Directory` `Linux (Ubuntu)` `Microsoft Azure / Entra ID`
 
 **Domains**
-`SIEM Engineering` `Threat Detection` `Incident Response` `DFIR` `Malware Analysis` `Log Analysis` `IAM` `Vulnerability Analysis`
+`SOAR` `SIEM Engineering` `Threat Detection` `Incident Response` `DFIR` `Malware Analysis` `Log Analysis` `IAM` `Vulnerability Analysis`
 
 **Scripting**
 `Python` `PowerShell` `Bash`
